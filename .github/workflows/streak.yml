@@ -1,0 +1,45 @@
+name: Maintain GitHub Streak Pro +
+
+on:  
+  schedule:  
+    - cron: '0 5-23/6 * * *'  
+  workflow_dispatch:  
+
+permissions:
+  contents: write
+
+jobs:  
+  build:  
+    runs-on: ubuntu-latest  
+    steps:  
+      - name: Checkout Repo  
+        uses: actions/checkout@v3
+
+      - name: Configure Git  
+        run: |
+          git config --local user.email "154684931+nisarx302@users.noreply.github.com"
+          git config --local user.name "nisarx302"
+
+      - name: Update README  
+        run: |
+          # YEH LINE BADAL DI GAYI HAI (THIS LINE HAS BEEN CHANGED) 👇
+          TIMESTAMP=$(TZ="Asia/Karachi" date +"%Y-%m-%d %H:%M:%S")
+          COMMIT_MSG=$(shuf -n 1 commit_messages.txt)
+          QUOTES=("💀 Darkness never sleeps" "🔥 Keep the flame alive" "👻 Shadows whisper in silence" "⚡ Power never dies" "🕯️ Light in the darkness")
+          RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
+
+          # Purani history ko preserve karo, sirf nayi row add karo
+          if ! grep -q "## 📅 Commit History" README.md; then
+            echo -e "## 📅 Commit History\n| # | Date & Time (PKT) | Message | Quote |\n|---|--------------------|---------|-------|" >> README.md
+          fi
+
+          # Count existing rows (ignore header lines)
+          COUNT=$(grep -c "^|" README.md)
+          NEW_COUNT=$((COUNT - 3)) # subtract header lines
+
+          echo "| $NEW_COUNT | $TIMESTAMP | $COMMIT_MSG | $RANDOM_QUOTE |" >> README.md
+
+          git add README.md
+          git commit -m "$COMMIT_MSG" || echo "No changes to commit"
+          git pull --rebase origin main || git rebase --abort
+          git push origin main
