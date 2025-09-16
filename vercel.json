@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/streak_maintainer",
-      "schedule": "* * * *"
+      "schedule": "* * * * *"
     }
   ]
 }
