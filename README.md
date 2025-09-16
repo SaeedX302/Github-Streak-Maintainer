@@ -101,7 +101,7 @@ v2.0 → Pro Design + Commit History Table + Stylish UI.
 
 ![Streak](https://img.shields.io/badge/Streak-Active-brightgreen)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nisarx302&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SaeedX302&theme=radical)
 
 </div>
 
@@ -110,37 +110,3 @@ v2.0 → Pro Design + Commit History Table + Stylish UI.
 ## 📅 Commit History
 | # | Date & Time (UTC) | Message | Quote |
 |---|--------------------|---------|-------|
-| -1 | 2025-09-08 10:15:01 |  TESTING  | TESTING  |
-| 0 | 2025-09-08 15:19:12 | Automated streak update 🌷 | 💀 Darkness never sleeps |
-| 1 | 2025-09-08 16:11:43 | Abstract & Philosophical 🤔 | ⚡ Power never dies |
-| 2 | 2025-09-08 22:12:51 | One step closer to the goal 🎯 | ⚡ Power never dies |
-| 3 | 2025-09-09 04:13:12 | It's not a bug, it's a feature... I think 🤔 | ⚡ Power never dies |
-| 4 | 2025-09-09 10:13:38 | Launching into the commit stream 🚀 | ⚡ Power never dies |
-| 5 | 2025-09-09 16:12:38 | Enhancing overall stability ⚖️ | ⚡ Power never dies |
-| 6 | 2025-09-09 22:12:07 | Another brick in the wall 🧱 | 🕯️ Light in the darkness |
-| 7 | 2025-09-10 04:12:20 | Simple & Minimalist 🧘 | 💀 Darkness never sleeps |
-| 8 | 2025-09-10 10:13:38 | Committed by your friendly neighborhood bot 🕷️ | ⚡ Power never dies |
-| 9 | 2025-09-10 16:11:16 | Routine code refinement 🧹 | 💀 Darkness never sleeps |
-| 10 | 2025-09-10 22:11:43 | Weaving digital threads 🕸️ | 💀 Darkness never sleeps |
-| 11 | 2025-09-11 04:12:36 | Echoes of a future commit 🗣️ | 🔥 Keep the flame alive |
-| 12 | 2025-09-11 10:14:10 | Checkpoint 📍 | ⚡ Power never dies |
-| 13 | 2025-09-11 16:11:04 | Update  GÜNCELLEME | 🔥 Keep the flame alive |
-| 14 | 2025-09-11 22:11:28 | Fixing a bug I introduced yesterday 🤦‍♂️ | 🕯️ Light in the darkness |
-| 15 | 2025-09-12 04:12:52 | Motivational & Uplifting 💪 | 🔥 Keep the flame alive |
-| 16 | 2025-09-12 10:13:22 | Log entry 🪵 | 🕯️ Light in the darkness |
-| 17 | 2025-09-12 16:11:13 | One small step for man... 👨‍🚀 | 💀 Darkness never sleeps |
-| 18 | 2025-09-12 22:11:24 | Committed by your friendly neighborhood bot 🕷️ | 💀 Darkness never sleeps |
-| 19 | 2025-09-13 04:11:58 | Houston, we have a commit 🛰️ | 💀 Darkness never sleeps |
-| 20 | 2025-09-13 10:12:16 | Never stop learning 📚 | 🕯️ Light in the darkness |
-| 21 | 2025-09-13 16:09:38 | Maintaining the digital heartbeat ❤️ | 🔥 Keep the flame alive |
-| 22 | 2025-09-13 22:09:48 | Small progress is still progress 🌱 | 💀 Darkness never sleeps |
-| 23 | 2025-09-14 04:11:51 | Another step forward 🚶‍♂️ | 👻 Shadows whisper in silence |
-| 24 | 2025-09-14 10:12:20 | Deploying tactical updates 🎯 | 💀 Darkness never sleeps |
-| 25 | 2025-09-14 16:09:23 | Spawning new features ✨ | 🕯️ Light in the darkness |
-| 26 | 2025-09-14 22:10:26 | Enhancing overall stability ⚖️ | 👻 Shadows whisper in silence |
-| 27 | 2025-09-15 04:11:46 | Funny & Humorous 😂 | 💀 Darkness never sleeps |
-| 28 | 2025-09-15 10:14:16 | Deploying tactical updates 🎯 | 💀 Darkness never sleeps |
-| 29 | 2025-09-15 16:11:41 | Echoes of a future commit 🗣️ | 👻 Shadows whisper in silence |
-| 30 | 2025-09-15 22:12:04 | Consistency is key 🔑 | ⚡ Power never dies |
-| 31 | 2025-09-16 04:11:56 | I need more coffee for this ☕ | 💀 Darkness never sleeps |
-| 32 | 2025-09-16 10:13:42 | Believe in the process 🙏 | ⚡ Power never dies |
